@@ -1,4 +1,4 @@
-**Day 1 - Jan. 7, 2019**
+**Day 1 - Jan. 6, 2020**
 
 * Notes: Intro to R & RStudio <!--, [Data Structures](https://ucsdlib.github.io/gps-skills-2017/intro-r/04-IntroR_Data_Structures.html)-->, Commands:R Script <!-- (https://raw.githubusercontent.com/ucsdlib/gps-skills-2017/master/intro-r/01-03-intro-r-lesson-gps2017-script.R)-->
 
